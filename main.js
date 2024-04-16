@@ -1,0 +1,17 @@
+let textOne = prompt("Ismingizni kiriting")
+let textTwo = prompt("Familiyangizni kiriting")
+let numberOne = prompt("Yoshingizni kiriting")
+let textThree = prompt("Yoqtirgan faningizni kiriting")
+let textFour = prompt("Yashaydigan tumangizni kiriting")
+
+alert(textOne)
+alert(textTwo)
+alert(numberOne)
+alert(textThree)
+alert(textFour)
+
+console.log(textOne)
+console.log(textTwo)
+console.log(numberOne)
+console.log(textThree)
+console.log(textFour)
